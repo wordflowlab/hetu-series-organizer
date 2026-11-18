@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-18",
+  "plugin_id": "org.wordflowlab.series-organizer",
+  "version": "0.1.0",
+  "package_sha256": "cf5288692cb98388505e4439bd4bc7779b7b3db248db5c0f06c5e0116030cb2a",
+  "host_version": "hetu 0.11.7",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "actions": [
+    "save_project",
+    "put_member",
+    "put_relation",
+    "put_appearance",
+    "put_plan",
+    "list_projects",
+    "get_source",
+    "get_operation",
+    "get_basis",
+    "get_series_map",
+    "check_series",
+    "get_project",
+    "build_context",
+    "create_handoff",
+    "compare_versions",
+    "export_project",
+    "remove_plan",
+    "remove_appearance",
+    "remove_relation",
+    "remove_member"
+  ],
+  "expected_rejections": [
+    "inspect_member_link:no_host_link"
+  ],
+  "skill_resources": 3,
+  "lifecycle": [
+    "install",
+    "disable",
+    "enable",
+    "uninstall",
+    "install"
+  ],
+  "fixed_history": true,
+  "CAS": true,
+  "original_key_recovery": true,
+  "artifact_sha256_verified": true,
+  "limits": [
+    "跨平台、真实创作质量、正文采纳、定稿和付费模型未在本用例验收"
+  ]
+}

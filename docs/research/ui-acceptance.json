@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-18",
+  "plugin_id": "org.wordflowlab.series-organizer",
+  "package_sha256": "9e8ef62c41ab34c9156a5ec20fb42b5d3df52f9e0afa8a7c72c1146653f297c9",
+  "host_version": "hetu 0.11.7",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "tabs": [
+    "系列作品",
+    "阅读顺序",
+    "角色出演",
+    "番外计划",
+    "接续创作"
+  ],
+  "empty_state": true,
+  "professional_actions": true,
+  "artifact_files": [],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "widths": [
+    1360,
+    760
+  ],
+  "reduced_transparency": true,
+  "CAS_preserves_input": true,
+  "explicit_rebase": true,
+  "close_reopen": true,
+  "dirty_buffer_restore": true,
+  "page_errors": [],
+  "limits": [
+    "原生窗口材质、系统输入法及Windows/Linux未由本测试证明"
+  ]
+}

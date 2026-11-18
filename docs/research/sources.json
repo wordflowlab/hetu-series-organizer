@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-18",
+  "references": [
+    {
+      "repository": "LeeGuanWei-a/serial-story-writer",
+      "commit": "c94c664cc32ab41a3a701dca6fb065a711c20580",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "c9aa332ae11d7d25a35764a15516dee3254ddf84ba95430dd82fee180b0c7dab"
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "adf82aa9ac7e2257271e6eaeb6474da3f35cabd6bcb175fa38b06e81791aafff"
+        },
+        {
+          "path": "package.json",
+          "sha256": "97e0cb94415ecdbb9fb1894ec6b0ce763f8275989d9887484765163917d4e091"
+        },
+        {
+          "path": "src/types.ts",
+          "sha256": "b2f0a426a09898f43705837d26071b9805abe7bddf465e42b18d2d7ab2117151"
+        },
+        {
+          "path": "src/serial-layout.ts",
+          "sha256": "307cc130317aa41dc12769814ee291ec23e18fc61fd4010867c2d84ddc7ccaf2"
+        },
+        {
+          "path": "src/serial-audit.ts",
+          "sha256": "f4f1c14cdc6fcd96d558cb2f3891eae1fc17f3dc0c6cf3daf8b637b47405b239"
+        },
+        {
+          "path": "src/proposal-inbox.ts",
+          "sha256": "2882530dbd418057147bede1ca3bb7470a493f80de17d321e82bf03ed6d6c726"
+        }
+      ],
+      "source_only": true
+    }
+  ],
+  "scope": "已逐个克隆的固定research base；方法与格式参考；不执行上游安装、测试或模型。"
+}
