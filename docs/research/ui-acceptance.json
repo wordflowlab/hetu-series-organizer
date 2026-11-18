@@ -1,8 +1,8 @@
 {
   "date": "2026-11-18",
   "plugin_id": "org.wordflowlab.series-organizer",
-  "package_sha256": "9e8ef62c41ab34c9156a5ec20fb42b5d3df52f9e0afa8a7c72c1146653f297c9",
-  "host_version": "hetu 0.11.7",
+  "package_sha256": "e51032102970d97f650165fdd2e17a3a6b5991e707ab3028dfc54422969663dc",
+  "host_version": "hetu 0.11.11",
   "platform": "darwin",
   "architecture": "arm64",
   "tabs": [
